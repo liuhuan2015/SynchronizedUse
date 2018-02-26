@@ -1,0 +1,1 @@
+include ':app', ':lib-SynchronizedDemo1', ':lib-SynchronizedDemo2', ':lib-SynchronizedDemo3'
